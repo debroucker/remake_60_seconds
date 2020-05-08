@@ -17,7 +17,7 @@ You need to have Python3.
 So, if you haven't it, do the command : `$ sudo apt-get install python3`
 
 ## Start-up
-To lunch the game, do the command : `$ python3 src/jeu.py` in the main directory, and enjoy.
+To launch the game, do the command : `$ python3 src/jeu.py` in the main directory, and enjoy.
 
 ![example](img/debut.png)
 
