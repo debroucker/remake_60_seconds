@@ -2,7 +2,7 @@
 
 This project is a remake of the game " 60 seconds ! ". 
 
-I did it in 2018, during my 2nd year of university license. This is a personnel project, and is developed in Python3. This project is finished.
+I did it in 2018, during my 2nd year of university license. This is a personnal project, and is developed in Python3. This project is finished.
 
 ## Rules
 There is an atomic bomb going to fall on your city. You have 30 seconds to recover your family, food and other things to survive in your atomic bomb shelter.
